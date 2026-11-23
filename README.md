@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:2563eb,100:1e3a8a&height=250&section=header&text=Victor%20L%C3%B3pez&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Backend%20%E2%80%A2%20IoT%20%E2%80%A2%20Redes%20%E2%80%A2%20Cloud&descSize=22&descAlignY=62&animation=fadeIn" width="100%" alt="Victor López — Backend, IoT, Redes, Cloud" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0284c7,50:2563eb,100:4338ca&height=250&section=header&text=Victor%20L%C3%B3pez&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Backend%20%E2%80%A2%20IoT%20%E2%80%A2%20Redes%20%E2%80%A2%20Cloud&descSize=22&descAlignY=62&animation=fadeIn" width="100%" alt="Victor López — Backend, IoT, Redes, Cloud" />
 
 <a href="https://github.com/VictorLopez19">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=0EA5E9&center=true&vCenter=true&width=640&lines=Conectando+software%2C+hardware+y+redes;APIs+con+Python+%2B+FastAPI;IoT+con+ESP32+y+WebSockets;Redes+Cisco+%C2%B7+AWS+%C2%B7+Cloud" alt="Typing SVG" />
@@ -15,9 +15,9 @@
 
 <a href="#-sobre-mí"><img src="https://img.shields.io/badge/Sobre%20m%C3%AD-0ea5e9?style=for-the-badge" alt="Sobre mí" /></a>
 <a href="#-stack"><img src="https://img.shields.io/badge/Stack-2563eb?style=for-the-badge" alt="Stack" /></a>
-<a href="#-proyectos"><img src="https://img.shields.io/badge/Proyectos-1e3a8a?style=for-the-badge" alt="Proyectos" /></a>
+<a href="#-proyectos"><img src="https://img.shields.io/badge/Proyectos-6366f1?style=for-the-badge" alt="Proyectos" /></a>
 <a href="#-certificaciones"><img src="https://img.shields.io/badge/Certificaciones-0ea5e9?style=for-the-badge" alt="Certificaciones" /></a>
-<a href="#-contacto"><img src="https://img.shields.io/badge/Contacto-2563eb?style=for-the-badge" alt="Contacto" /></a>
+<a href="#-contacto"><img src="https://img.shields.io/badge/Contacto-3b82f6?style=for-the-badge" alt="Contacto" /></a>
 
 <br/><br/>
 
@@ -32,7 +32,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y me gusta constru
 
 <p align="center"><sub>🧠 Además exploro cómo aplicar inteligencia artificial en sistemas tecnológicos y de automatización.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -96,13 +96,13 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y me gusta constru
       <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
       <img src="https://img.shields.io/badge/Packet%20Tracer-049FD9?style=flat-square" alt="Packet Tracer" />
       <img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-0A66C2?style=flat-square" alt="IPv4 / IPv6" />
-      <img src="https://img.shields.io/badge/VLAN-1E3A8A?style=flat-square" alt="VLAN" />
+      <img src="https://img.shields.io/badge/VLAN-3B82F6?style=flat-square" alt="VLAN" />
       <img src="https://img.shields.io/badge/WebSocket-4B5563?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket" />
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -126,7 +126,7 @@ flowchart LR
 
 <div align="center">
 <a href="https://victorlopez19.github.io/novatrack/">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:1e3a8a&height=90&section=header&text=01%20%C2%B7%20NovaTrack&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="NovaTrack" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0284c7,100:1d4ed8&height=90&section=header&text=01%20%C2%B7%20NovaTrack&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="NovaTrack" />
 </a>
 
 **Plataforma web para controlar una excavadora física en tiempo real**
@@ -174,7 +174,7 @@ flowchart LR
 
 <div align="center">
 <a href="https://github.com/VictorLopez19/api_vehiculo_iot">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563eb,100:1e3a8a&height=90&section=header&text=02%20%C2%B7%20API%20Veh%C3%ADculo%20IoT&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="API Vehículo IoT" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1d4ed8,100:4338ca&height=90&section=header&text=02%20%C2%B7%20API%20Veh%C3%ADculo%20IoT&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="API Vehículo IoT" />
 </a>
 
 **Backend REST y WebSocket para administrar vehículos IoT**
@@ -211,7 +211,7 @@ flowchart LR
 
 <br/><br/>
 
-<a href="https://github.com/VictorLopez19/api_vehiculo_iot"><img src="https://img.shields.io/badge/%F0%9F%93%82%20Repositorio-181717?style=for-the-badge&logo=github" alt="Repositorio" /></a>
+<a href="https://github.com/VictorLopez19/api_vehiculo_iot"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%F0%9F%93%82%20Repositorio-f0f6fc?style=for-the-badge&logo=github&logoColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%F0%9F%93%82%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/%F0%9F%93%82%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></picture></a>
 
 </td>
   </tr>
@@ -223,7 +223,7 @@ flowchart LR
 
 <div align="center">
 <a href="https://ecobot.infinityfree.me/example/">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:2563eb&height=90&section=header&text=03%20%C2%B7%20Ecobot&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Ecobot" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0369a1,100:2563eb&height=90&section=header&text=03%20%C2%B7%20Ecobot&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Ecobot" />
 </a>
 
 **Clasificación inteligente de residuos con visión artificial**
@@ -249,7 +249,7 @@ flowchart LR
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 
 <br/><br/>
@@ -265,7 +265,7 @@ flowchart LR
 <!-- ============================ 04 · Redes ============================ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563eb,100:0ea5e9&height=90&section=header&text=04%20%C2%B7%20Infraestructura%20de%20Redes&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Infraestructura de redes" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563eb,100:0284c7&height=90&section=header&text=04%20%C2%B7%20Infraestructura%20de%20Redes&fontSize=34&fontColor=ffffff&fontAlignY=55" width="100%" alt="Infraestructura de redes" />
 
 **Diseño e implementación de redes empresariales en Cisco Packet Tracer**
 
@@ -291,13 +291,13 @@ flowchart LR
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
 <img src="https://img.shields.io/badge/Packet%20Tracer-049FD9?style=flat-square" alt="Packet Tracer" />
 <img src="https://img.shields.io/badge/IPv4%20%2F%20IPv6-0A66C2?style=flat-square" alt="IPv4 / IPv6" />
-<img src="https://img.shields.io/badge/VLAN-1E3A8A?style=flat-square" alt="VLAN" />
+<img src="https://img.shields.io/badge/VLAN-3B82F6?style=flat-square" alt="VLAN" />
 
 </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -322,7 +322,7 @@ flowchart LR
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -346,14 +346,14 @@ flowchart LR
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&theme=github-light&hide_border=true&area=true&bg_color=00000000">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&theme=github-light&hide_border=true&area=true" alt="Gráfica de actividad" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area_color=38bdf8&title_color=38bdf8&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=ffffff&color=1d4ed8&line=2563eb&point=1e3a8a&area_color=2563eb&title_color=1d4ed8&hide_border=true&area=true">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=ffffff&color=1d4ed8&line=2563eb&point=1e3a8a&area_color=2563eb&title_color=1d4ed8&hide_border=true&area=true" alt="Gráfica de actividad" />
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:1e3a8a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -361,7 +361,7 @@ flowchart LR
 
 Me interesa colaborar en proyectos de **desarrollo de software, IoT, redes y cloud**, y compartir lo que voy aprendiendo.
 
-<a href="https://github.com/VictorLopez19"><img src="https://img.shields.io/badge/GitHub-VictorLopez19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/VictorLopez19"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-VictorLopez19-f0f6fc?style=for-the-badge&logo=github&logoColor=0d1117"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-VictorLopez19-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/GitHub-VictorLopez19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></picture></a>
 <!-- Reemplaza TU-USUARIO por tu perfil de LinkedIn -->
 <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=VictorLopez19&label=Visitas&color=0ea5e9&style=for-the-badge" alt="Visitas al perfil" />
@@ -370,6 +370,6 @@ Me interesa colaborar en proyectos de **desarrollo de software, IoT, redes y clo
 
 **💻 Transformando ideas en soluciones tecnológicas**
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e3a8a,50:2563eb,100:0ea5e9&height=130&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4338ca,50:2563eb,100:0284c7&height=130&section=footer" width="100%" alt="" />
 
 </div>
