@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0284c7,50:2563eb,100:4338ca&height=250&section=header&text=Victor%20L%C3%B3pez&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Backend%20%E2%80%A2%20IoT%20%E2%80%A2%20Redes%20%E2%80%A2%20Cloud&descSize=22&descAlignY=62&animation=fadeIn" width="100%" alt="Victor López — Backend, IoT, Redes, Cloud" />
 
 <a href="https://github.com/VictorLopez19">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=0EA5E9&center=true&vCenter=true&width=640&lines=Conectando+software%2C+hardware+y+redes;APIs+con+Python+%2B+FastAPI;IoT+con+ESP32+y+WebSockets;Redes+Cisco+%C2%B7+AWS+%C2%B7+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=0284C7&center=true&vCenter=true&width=640&lines=Conectando+software%2C+hardware+y+redes;APIs+con+Python+%2B+FastAPI;IoT+con+ESP32+y+WebSockets;Redes+Cisco+%C2%B7+AWS+%C2%B7+Cloud" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,50:2563eb,100:6366f1&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -61,7 +61,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y me gusta constru
 
 <p align="center"><sub>🧠 Además exploro cómo aplicar inteligencia artificial en sistemas tecnológicos y de automatización.</sub></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,50:2563eb,100:6366f1&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -72,23 +72,23 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y me gusta constru
 <table align="center">
   <tr>
     <td align="right"><b>Lenguajes</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,php,html,css&theme=light"><img src="https://skillicons.dev/icons?i=python,js,php,html,css" alt="Lenguajes" /></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark"><img src="https://skillicons.dev/icons?i=python,js,php,html,css" alt="Lenguajes" /></picture></td>
   </tr>
   <tr>
     <td align="right"><b>Backend y web</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,react,bootstrap&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,react,bootstrap&theme=light"><img src="https://skillicons.dev/icons?i=fastapi,react,bootstrap" alt="Backend y web" /></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,react,bootstrap&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,react,bootstrap&theme=dark"><img src="https://skillicons.dev/icons?i=fastapi,react,bootstrap" alt="Backend y web" /></picture></td>
   </tr>
   <tr>
     <td align="right"><b>Bases de datos</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,sqlite&theme=light"><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Bases de datos" /></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"><img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Bases de datos" /></picture></td>
   </tr>
   <tr>
     <td align="right"><b>IoT y cloud</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,arduino,docker,linux&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,arduino,docker,linux&theme=light"><img src="https://skillicons.dev/icons?i=aws,arduino,docker,linux" alt="IoT y cloud" /></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,arduino,docker,linux&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,arduino,docker,linux&theme=dark"><img src="https://skillicons.dev/icons?i=aws,arduino,docker,linux" alt="IoT y cloud" /></picture></td>
   </tr>
   <tr>
     <td align="right"><b>Herramientas</b></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light"><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Herramientas" /></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Herramientas" /></picture></td>
   </tr>
   <tr>
     <td align="right"><b>Redes</b></td>
@@ -102,7 +102,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** y me gusta constru
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,50:2563eb,100:6366f1&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -206,7 +206,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EC2" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+<img src="https://img.shields.io/badge/Swagger-4C9A0F?style=flat-square&logo=swagger&logoColor=white" alt="Swagger" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
 <br/><br/>
@@ -249,7 +249,7 @@ flowchart LR
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/React-0891B2?style=flat-square&logo=react&logoColor=white" alt="React" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
 
 <br/><br/>
@@ -297,7 +297,7 @@ flowchart LR
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,50:2563eb,100:6366f1&height=3" width="100%" alt="" />
 
 <div align="center">
 
@@ -322,38 +322,38 @@ flowchart LR
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,50:2563eb,100:6366f1&height=3" width="100%" alt="" />
 
 <div align="center">
 
 ## 📊 Estadísticas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VictorLopez19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VictorLopez19&show_icons=true&theme=default&hide_border=true&include_all_commits=true&bg_color=00000000">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VictorLopez19&show_icons=true&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VictorLopez19&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VictorLopez19&show_icons=true&include_all_commits=true&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1d4ed8&icon_color=2563eb&text_color=24292f">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=VictorLopez19&show_icons=true&include_all_commits=true&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1d4ed8&icon_color=2563eb&text_color=24292f" alt="Estadísticas de GitHub" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLopez19&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLopez19&layout=compact&theme=default&hide_border=true&bg_color=00000000">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLopez19&layout=compact&hide_border=true" alt="Lenguajes más usados" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VictorLopez19&theme=github-dark-blue&hide_border=true&background=00000000">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=VictorLopez19&theme=default&hide_border=true&background=00000000">
-  <img width="90%" src="https://streak-stats.demolab.com?user=VictorLopez19&hide_border=true" alt="Racha de contribuciones" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLopez19&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLopez19&layout=compact&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1d4ed8&icon_color=2563eb&text_color=24292f">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLopez19&layout=compact&hide_border=false&bg_color=f6f8fa&border_color=d0d7de&title_color=1d4ed8&icon_color=2563eb&text_color=24292f" alt="Lenguajes más usados" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area_color=38bdf8&title_color=38bdf8&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=ffffff&color=1d4ed8&line=2563eb&point=1e3a8a&area_color=2563eb&title_color=1d4ed8&hide_border=true&area=true">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=ffffff&color=1d4ed8&line=2563eb&point=1e3a8a&area_color=2563eb&title_color=1d4ed8&hide_border=true&area=true" alt="Gráfica de actividad" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VictorLopez19&background=0d1117&border=30363d&stroke=30363d&ring=38bdf8&fire=fb923c&currStreakNum=38bdf8&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=VictorLopez19&background=f6f8fa&border=d0d7de&stroke=d0d7de&ring=2563eb&fire=ea580c&currStreakNum=1d4ed8&sideNums=24292f&currStreakLabel=1d4ed8&sideLabels=24292f&dates=57606a">
+  <img width="90%" src="https://streak-stats.demolab.com?user=VictorLopez19&background=f6f8fa&border=d0d7de&stroke=d0d7de&ring=2563eb&fire=ea580c&currStreakNum=1d4ed8&sideNums=24292f&currStreakLabel=1d4ed8&sideLabels=24292f&dates=57606a" alt="Racha de contribuciones" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area_color=38bdf8&title_color=38bdf8&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=f6f8fa&color=1d4ed8&line=2563eb&point=1e3a8a&area_color=2563eb&title_color=1d4ed8&area=true">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=VictorLopez19&bg_color=f6f8fa&color=1d4ed8&line=2563eb&point=1e3a8a&area_color=2563eb&title_color=1d4ed8&area=true" alt="Gráfica de actividad" />
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,50:3b82f6,100:818cf8&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,50:2563eb,100:6366f1&height=3" width="100%" alt="" />
 
 <div align="center">
 
